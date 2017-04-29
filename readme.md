@@ -5,18 +5,22 @@ Custom UIView does not render in storyboard, but can be selected from the toolbo
 The reason to this example project simply is that I was looking for an example like this but could not find something that was working out of the box. 
 
 
-Design custom view in xib using Visual Studio or Xcode (less buggy)
+Design custom view in xib using Visual Studio or Xcode (less buggy):
+
 ![xib](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme Images/xib1.png)
 
 
 CustomView is visible in Toolbox:
+
 ![Toolbox](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/customview_toolbox.png)
 
 
 CustomView can be droped into your storyboard:
+
 ![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/storyboard.png)
 
 Simulator run. View can also be resized/rotated during runtime:
+
 ![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/simulator_run.png)
 
 
