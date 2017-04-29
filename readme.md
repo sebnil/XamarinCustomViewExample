@@ -10,14 +10,14 @@ Design custom view in xib using Visual Studio or Xcode (less buggy)
 
 
 CustomView is visible in Toolbox:
-![Toolbox](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme Images/customview_toolbox.png)
+![Toolbox](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/customview_toolbox.png)
 
 
 CustomView can be droped into your storyboard:
-![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme Images/storyboard.png)
+![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/storyboard.png)
 
 Simulator run. View can also be resized/rotated during runtime:
-![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme Images/simulator_run.png)
+![Storyboard](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/simulator_run.png)
 
 
 ## Getting Started
