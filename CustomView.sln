@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomView", "CustomView\CustomView.csproj", "{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Release|iPhone.Build.0 = Release|iPhone
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{79CCE78D-EAC5-4230-8844-C1EC888F4DDB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
