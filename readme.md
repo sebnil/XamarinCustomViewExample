@@ -1,4 +1,4 @@
-# Project Title
+# Xamarin CustomView Example
 
 Example project showing how to create a custom control (UIView) with XIB so that it's available in Xamarin iOS designer.
 Custom UIView does not render in storyboard, but can be selected from the toolbox window. If you make rendering in storyboard work, please make a pull request and I will merge it into this repo. 
@@ -10,12 +10,11 @@ Clone and run .sln in Visual Studio.
 
 ### Prerequisites
 
-Visual Studio (Tested on CE 2017)
+Visual Studio (Tested on Visual Studio CE 2017)
 
 ## Author
 
-* **Sebastian Nilsson** - *This project* - [sebastiannilsson.com](http://sebastiannilsson.com)
-
+* **Sebastian Nilsson** - [sebastiannilsson.com](http://sebastiannilsson.com)
 
 ## License
 
