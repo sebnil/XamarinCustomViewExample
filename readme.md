@@ -7,7 +7,7 @@ The reason to this example project simply is that I was looking for an example l
 
 Design custom view in xib using Visual Studio or Xcode (less buggy):
 
-![xib](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme Images/xib1.png)
+![xib](https://github.com/sebnil/XamarinCustomViewExample/blob/master/Readme%20Images/xib1.png)
 
 
 CustomView is visible in Toolbox:
